@@ -3,7 +3,7 @@
 #include "mainoperationwidget.h"
 
 // Created by Soup
-
+// Created by Wee
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
