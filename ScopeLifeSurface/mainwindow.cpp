@@ -2,7 +2,7 @@
 #include "ui_mainwindow.h"
 #include "mainoperationwidget.h"
 
-// Create by Soup
+// Created by Soup
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
